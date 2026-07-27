@@ -1,0 +1,26 @@
+{
+  "name": "zyrix-plp-bot",
+  "version": "2.0.0",
+  "description": "Bot Telegram Jualan ZYRIX PLP PROJECT - DANA Payment + QRIS + BASE",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [
+    "telegram-bot",
+    "zyrix-plp",
+    "jualan",
+    "dana",
+    "qris",
+    "base"
+  ],
+  "author": "@StxrlyYanzz",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
